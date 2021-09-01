@@ -1,0 +1,6 @@
+host facebook.com is alive - 01/09/2021 11:26:56
+host google.com is alive - 01/09/2021 11:26:56
+host yahoo.com is alive - 01/09/2021 11:26:56
+host facebook.com is alive - 01/09/2021 11:28:03
+host google.com is alive - 01/09/2021 11:28:03
+host yahoo.com is alive - 01/09/2021 11:28:03
