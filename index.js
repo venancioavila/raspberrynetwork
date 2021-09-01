@@ -14,11 +14,5 @@ const verify = () => {
   });
 };
 
-var job = new CronJob(
-  "*/1 * * * *",
-  verify(),
-  null,
-  true,
-  "America/Los_Angeles"
-);
+var job = new CronJob("* * * * *", verify, null, true, "America/Los_Angeles");
 job.start();
